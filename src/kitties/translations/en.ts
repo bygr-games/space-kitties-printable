@@ -5,7 +5,7 @@ export default {
   ABILITY_STACK_BLOCKED_CARD: "Use a blocked card from your star map",
   ABILITY_STACK_STEAL_CARD:
     "Use an available card from someone else's star map",
-  ABILITY_STACK_REMOVE_CARD: "Place previous card from a stack on top",
+  ABILITY_STACK_REMOVE_CARD: "-1 to an existing Planet card in a pile",
   ABILITY_STACK_UNSTABLE_WORMHOLE:
     "Open a Wormhole using the top card of the deck",
   ABILITY_STACK_PLUS_ONE: "+1 to the most recent card you played this turn",
@@ -23,7 +23,7 @@ export default {
   ABILITY_STACK_WORMHOLE_NAME: "One Small Step",
   ABILITY_STACK_EVEN_PLANET_NAME: "Warp Drive",
   ABILITY_STACK_ODD_PLANET_NAME: "Know Your Odds",
-  ABILITY_STACK_BLOCKED_CARD_NAME: "Secret Codes  ",
+  ABILITY_STACK_BLOCKED_CARD_NAME: "Secret Codes",
   ABILITY_STACK_STEAL_CARD_NAME: "Deceiving Maneuvers",
   ABILITY_STACK_REMOVE_CARD_NAME: "Trajectory Change",
 

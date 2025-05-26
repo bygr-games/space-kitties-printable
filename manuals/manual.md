@@ -84,7 +84,8 @@ The first Commander to clear its Quests pile, wins the game.
    - The Active Commander can place as many cards as it wants in the Hyperspace Area, as long as they are part of a valid for the ladder sequence. (Wormhole (0) -> Planets (1-10) -> Final Frontier (11))
    - The Active Commander is not forced to play cards in the Hyperspace Area, it can decide to stop stage at any time during its turn.
    - If the Active Commander runs out of cards, it Refills its Hand from the Play Deck up to the defined Commander Hand size (7 cards for 2-6 Commanders, 6 cards for 7-8 Commanders). After refilling it can continue placing cards in the Hyperspace Area as normal.
-   - If the Commander doesn't have any valid cards to place in the Play Area, or doesn't want to place anymore, it proceeds to the next step.
+   - The Active Commander can play its Abilities at any point during this stage of the turn
+   - If the Commander doesn't have any valid cards to place in the Play Area, or doesn't want to place more cards, it proceeds to the next step.
 2. **Place card in Star Map lane:**
    - The Active Commander MUST place a card from its hand in a Star Map lane.
    - The Active Commander can only place ONE card each turn, unless a Commander Ability overrules this.
@@ -107,7 +108,19 @@ Each Commander has two types of abilities:
 - Abilities can only be played if the Active Commander has the Commander Card in front of them. If the card is trapped in a Journey Pile or Discard Pile, the Commander has to wait until the Commander Card is freed.
 - Abilities can be played several times in the same turn, as long as the trapped/freed rules are respected.
 
-### Commander Ability Explanations
+### Commander Abilities
+
+**One Small Step**: Play on top of the chosen Journey Pile. The Commander Card counts as a +1 to the most recent card you played this turn. If you haven't played a card this turn, you cannot use this ability.
+**Warp Drive**: Play in place of an even-numbered planet. The Commander Card behaves as a Hyperspeed card in this case, but it can only replace an Even-Numbered Planet.
+**Deceiving Maneuvers**: Use an available card from someone else's star map. The stolen card must be available, on top of a Star Map lane. The Commander Card and the stolen card are placed in the same pile.
+**Trajectory Change**: Play on top of the chosen Journey Pile. The Commander Card counts as a -1 to the Planet that is below in the Journey Pile. It must be played on top of a Planet.
+**Unstable Wormhole**: Place the Commander Card in a free space of the Hyperspace Area. Take the top card of the Play deck and place it on top of the Commander Card. Now there is a new Journey Pile that started from the value of that card. If the played card is a Hyperspeed! Card, the Active Commander chooses its value.
+
+**Auxiliary Engines**: Discard the current hand and take a new one. The turn continues as normal.
+**Diplomatic Mission**: The Active Commander choses another Commander, it gives 3 cards from its hand to that Commander. Then, take 3 random cards from its hand. If the Active Commander has less than 3 cards in its hand, this ability cannot be used.
+**Fast Docking**: During this turn, the Active Commander can play cards of the same number as the current value of the Journey Pile. This allows to play the same value over and over.
+**Cargo Bay**: At the end of the current turn, the Active Commander place all its remaing in-hand cards in the Star Map. The Commander can choose in which order it places them as long as it doesn't change the position of the cards that were in the Star Map from before.
+**Mission Control**: The Commander takes the current mission and places it face down at the bottom of its Quest Pile. Then flips the next Quest card face up, that is its new Active Quest.
 
 ## Hyperspeed! Cards
 
