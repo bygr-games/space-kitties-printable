@@ -117,7 +117,7 @@ Hyperspeed cards can be used as Wormhole cards to start new ladders.
 
 ## Final Frontier Cards
 
-Once a Journey Pile reaches the Final Frontier. The pile is removed from the Play Area and placed in a Discard Pile.
+Once a Journey Pile reaches the Final Frontier, the pile is removed from the Play Area and placed in a Discard Pile.
 If there were Commander Cards in Journey Pile, remember to return them to the Commanders who owned them.
 
 ## Running out of cards in the Play Deck
