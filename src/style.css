@@ -1,0 +1,74 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: black;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+game-root {
+  width: 178mm;
+  display: block;
+  padding: 0;
+}
+
+.card {
+  box-sizing: border-box;
+  border-style: solid;
+  border-radius: 5mm;
+  font-size: 12pt;
+  padding: 5mm;
+  position: relative;
+  display: inline-block;
+  margin: 1mm;
+  width: 44mm;
+}
+.captainCard {
+  height: 87mm;
+  width: 87mm;
+}
+.planetCard {
+  height: 64mm;
+}
+.hyperspeedCard {
+  height: 64mm;
+}
+.finalFrontierCard {
+  height: 64mm;
+}
+ul {
+  padding-left: 5mm;
+  padding-right: 5mm;
+  bottom: 5mm;
+  position: absolute;
+}
+.portrait {
+  width: 30mm;
+  height: 30mm;
+  background-color: cornflowerblue;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5mm;
+}
+.name {
+  margin-top: 5mm;
+  text-align: center;
+}
+.description {
+  text-align: center;
+  font-size: 8pt;
+}
+.skill {
+  font-size: 8pt;
+  text-align: left;
+}
+.skillA::marker {
+}
+.skillB::marker {
+}
