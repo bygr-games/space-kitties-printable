@@ -63,15 +63,16 @@ The first Commander to clear its Quests pile, wins the game.
 - Each Commander plays its turn one-by-one playing clockwise until the game ends. During its turn, this Commander is considered the Active Commander.
 - Commanders will build Journey Piles in the Hyperspace Area.
 - Journey Piles are always started with a Wormhole (0) and will grow in ascending order using Planets (1-10) until the Final Frontier (11).
-- Any Commander can add cards to any Journey Pile.
 - There can be any amount of Journey piles in play at the same time.
 - Only a card that is the next number in the sequence can be played in a Journey Pile. (The sequence is: Wormhole (0) -> Planets (1-10) -> Final Frontier (11))
+
 - Commanders can only place cards and use its abilities in their turn, when they are the Active Commander.
+- The Active Commander can add cards to any Journey Pile.
 - The Active Commander can place as many cards as it wants in the Hyperspace Area.
 - Played cards can be from its hand, Star Map lanes or Quest pile.
-- **End of turn:** When the Active Commander cannot or doesn't wish to play more cards, it must end its turn by placing a card from its hand in the one of the Star Map lanes.
-  Once the Active Commander places a card in the Star Map the turn ends and the next Commander in the round starts its turn.
 - Commander Abilities always override the original rules.
+
+- When the Active Commander cannot or doesn't wish to play more cards, it **must** end its turn by placing a card from its hand in the one of the Star Map lanes.
 
 ## Turn Sequence
 
