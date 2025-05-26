@@ -152,6 +152,6 @@ If there were Commander Cards in Discard Pile, remember to return them to the Co
 
 ## To Victory!
 
-You are all set! May you bring the glory and furryness of our Empire to the confines of the galaxy!
+You are all set! May you bring glory and furryness of our Empire to the confines of the galaxy!
 Godspeed commanders!
 Meow!
