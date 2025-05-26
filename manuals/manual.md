@@ -110,16 +110,28 @@ Each Commander has two types of abilities:
 
 ### Commander Abilities
 
+#### Play Abilities
+
 **One Small Step**: Play on top of the chosen Journey Pile. The Commander Card counts as a +1 to the most recent card you played this turn. If you haven't played a card this turn, you cannot use this ability.
+
 **Warp Drive**: Play in place of an even-numbered planet. The Commander Card behaves as a Hyperspeed card in this case, but it can only replace an Even-Numbered Planet.
+
 **Deceiving Maneuvers**: Use an available card from someone else's star map. The stolen card must be available, on top of a Star Map lane. The Commander Card and the stolen card are placed in the same pile.
+
 **Trajectory Change**: Play on top of the chosen Journey Pile. The Commander Card counts as a -1 to the Planet that is below in the Journey Pile. It must be played on top of a Planet.
+
 **Unstable Wormhole**: Place the Commander Card in a free space of the Hyperspace Area. Take the top card of the Play deck and place it on top of the Commander Card. Now there is a new Journey Pile that started from the value of that card. If the played card is a Hyperspeed! Card, the Active Commander chooses its value.
 
+#### Discard Abilities
+
 **Auxiliary Engines**: Discard the current hand and take a new one. The turn continues as normal.
+
 **Diplomatic Mission**: The Active Commander choses another Commander, it gives 3 cards from its hand to that Commander. Then, take 3 random cards from its hand. If the Active Commander has less than 3 cards in its hand, this ability cannot be used.
+
 **Fast Docking**: During this turn, the Active Commander can play cards of the same number as the current value of the Journey Pile. This allows to play the same value over and over.
+
 **Cargo Bay**: At the end of the current turn, the Active Commander place all its remaing in-hand cards in the Star Map. The Commander can choose in which order it places them as long as it doesn't change the position of the cards that were in the Star Map from before.
+
 **Mission Control**: The Commander takes the current mission and places it face down at the bottom of its Quest Pile. Then flips the next Quest card face up, that is its new Active Quest.
 
 ## Hyperspeed! Cards
