@@ -103,7 +103,7 @@ Each Commander has two types of abilities:
 
 **Discard**: To use this ability, place the Commander Card in the Discard Pile. These abilities are stronger and have effects that go beyond an specific Journey Pile. The Commander Card is trapped in the Discard Pile until the Play Deck is finished and the Discard Pile is reshufled. When that happens, the Commander Card is freed and goes back to the Commander who owned it.
 
-- Abilities can only be used in the Commander's turn, when they are the Active Commander.
+- Abilities can only be used in the Active Commander during its turn.
 - Abilities can only be played if the Active Commander has the Commander Card in front of them. If the card is trapped in a Journey Pile or Discard Pile, the Commander has to wait until the Commander Card is freed.
 - Abilities can be played several times in the same turn, as long as the trapped/freed rules are respected.
 
