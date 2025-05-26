@@ -99,8 +99,8 @@ The first Commander to clear its Quests pile, wins the game.
 
 Each Commander has two types of abilities:
 
-- Play: Play the ability in an specific Journey Pile. The pile chosen, is the one that will be affected by the ability. If the ability uses another Journey Card, place both cards at the same time. The Commander Card is trapped in that Journey Pile until that pile reaches Final Frontier. When that happens, the Commander Card is freed and goes back to the Commander who owned it.
-- Discard: To use this ability, place the Commander Card in the Discard Pile. These abilities are stronger and have effects that go beyond an specific Journey Pile. The Commander Card is trapped in the Discard Pile until the Play Deck is finished and the Discard Pile is reshufled. When that happens, the Commander Card is freed and goes back to the Commander who owned it.
+**Play**: Play the ability in an specific Journey Pile. The pile chosen, is the one that will be affected by the ability. If the ability uses another Journey Card, place both cards at the same time. The Commander Card is trapped in that Journey Pile until that pile reaches Final Frontier. When that happens, the Commander Card is freed and goes back to the Commander who owned it.
+**Discard**: To use this ability, place the Commander Card in the Discard Pile. These abilities are stronger and have effects that go beyond an specific Journey Pile. The Commander Card is trapped in the Discard Pile until the Play Deck is finished and the Discard Pile is reshufled. When that happens, the Commander Card is freed and goes back to the Commander who owned it.
 
 - Abilities can only be used in the Commander's turn, when they are the Active Commander.
 - Abilities can only be played if the Active Commander has the Commander Card in front of them. If the card is trapped in a Journey Pile or Discard Pile, the Commander has to wait until the Commander Card is freed.
