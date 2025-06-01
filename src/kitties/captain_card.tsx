@@ -13,29 +13,34 @@ export class CaptainCard extends KTUComponent {
   render(): Element {
     return (
       <div className="card captainCard">
-        <div className="portrait"></div>
+        <div className="portrait">
+          <img src={"/" + this.captain.key + ".png"} />
+        </div>
         <div className="name">{this.captain.name}</div>
         <div className="description">{this.captain.description}</div>
-        <ul>
-          <li className="skill skillA">
-            <b>
-              {TranslationManager.getInstance().getText(
-                this.captain.skillA + "_NAME"
-              )}
-              :
-            </b>{" "}
-            {TranslationManager.getInstance().getText(this.captain.skillA)}
-          </li>
-          <li className="skill skillB">
-            <b>
-              {TranslationManager.getInstance().getText(
-                this.captain.skillB + "_NAME"
-              )}
-              :
-            </b>{" "}
-            {TranslationManager.getInstance().getText(this.captain.skillB)}
-          </li>
-        </ul>
+        <div>
+          <ul>
+            <li className="skill skillA">
+              <b>
+                {TranslationManager.getInstance().getText(
+                  this.captain.skillA + "_NAME"
+                )}
+                :
+              </b>{" "}
+              {TranslationManager.getInstance().getText(this.captain.skillA)}
+            </li>
+            <hr />
+            <li className="skill skillB">
+              <b>
+                {TranslationManager.getInstance().getText(
+                  this.captain.skillB + "_NAME"
+                )}
+                :
+              </b>{" "}
+              {TranslationManager.getInstance().getText(this.captain.skillB)}
+            </li>
+          </ul>
+        </div>
       </div>
     );
   }

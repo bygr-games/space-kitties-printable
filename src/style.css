@@ -1,26 +1,20 @@
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
   color: black;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 game-root {
-  width: 178mm;
-  display: block;
   padding: 0;
 }
 
 .card {
   box-sizing: border-box;
   border-style: solid;
+  border-width: 2mm;
+  border-color: #f4f4f4;
   border-radius: 5mm;
   font-size: 12pt;
   padding: 5mm;
@@ -28,10 +22,12 @@ game-root {
   display: inline-block;
   margin: 1mm;
   width: 44mm;
+  background-color: #0d0721;
+  color: #f4f4f4;
 }
 .captainCard {
-  height: 87mm;
-  width: 87mm;
+  height: 88mm;
+  width: 63mm;
 }
 .planetCard {
   height: 64mm;
@@ -43,32 +39,57 @@ game-root {
   height: 64mm;
 }
 ul {
-  padding-left: 5mm;
-  padding-right: 5mm;
-  bottom: 5mm;
+  border-style: solid;
+  border-width: 0.5mm;
+  border-radius: 2mm;
+  padding: 2mm;
+  padding-left: 3mm;
+  padding-right: 3mm;
+  margin-right: 5mm;
+  bottom: 0mm;
   position: absolute;
 }
+hr {
+  border-width: 0.25mm;
+  border-style: solid none none none;
+  border-color: #f4f4f4;
+  margin-top: 0.1mm;
+  margin-bottom: 1mm;
+}
 .portrait {
-  width: 30mm;
-  height: 30mm;
-  background-color: cornflowerblue;
+  width: 40mm;
+  height: 40mm;
+  //background-color: cornflowerblue;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 5mm;
+}
+.portrait img {
+  width: 100%;
 }
 .name {
-  margin-top: 5mm;
+  margin-top: 0mm;
   text-align: center;
+  font-family: "brevia", sans-serif;
+  font-weight: 800;
 }
 .description {
   text-align: center;
   font-size: 8pt;
+  font-family: "brevia", sans-serif;
+  font-weight: 400;
+  font-style: italic;
 }
 .skill {
-  font-size: 8pt;
+  font-size: 6pt;
   text-align: left;
+  font-family: "brevia", sans-serif;
+  font-weight: 400;
+  list-style: none;
 }
 .skillA::marker {
+}
+.skillA {
+  margin-bottom: 1mm;
 }
 .skillB::marker {
 }

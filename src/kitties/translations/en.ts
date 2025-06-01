@@ -1,24 +1,24 @@
 export default {
   ABILITY_STACK_WORMHOLE: "Open a Wormhole",
-  ABILITY_STACK_EVEN_PLANET: "Play in place of an even-numbered planet",
+  ABILITY_STACK_EVEN_PLANET: "Play in place of an even-numbered Planet",
   ABILITY_STACK_ODD_PLANET: "Play in place of an odd-numbered planet",
-  ABILITY_STACK_BLOCKED_CARD: "Use a blocked card from your star map",
+  ABILITY_STACK_BLOCKED_CARD: "Use a blocked card from your Star Map",
   ABILITY_STACK_STEAL_CARD:
-    "Use an available card from someone else's star map",
-  ABILITY_STACK_REMOVE_CARD: "-1 to an existing Planet card in a pile",
+    "Use an available card from someone else's Star Map",
+  ABILITY_STACK_REMOVE_CARD: "-1 to an existing Planet card in a Journey pile",
   ABILITY_STACK_UNSTABLE_WORMHOLE:
     "Open a Wormhole using the top card of the deck",
   ABILITY_STACK_PLUS_ONE: "+1 to the most recent card you played this turn",
 
-  ABILITY_DISCARD_HAND: "Discard hand and take a new one",
-  ABILITY_DISCARD_SWAP_CARDS: "Swap 3 cards with another player",
+  ABILITY_DISCARD_HAND: "Discard your hand and take a new one",
+  ABILITY_DISCARD_SWAP_CARDS: "Swap 3 cards with another Commander's hand",
   ABILITY_DISCARD_REPEAT:
-    "During this turn you can play as many cards of the same number as you want",
+    "During this turn you can play Planet cards of the same number",
   ABILITY_DISCARD_REMOVE: "Discard the top card of a ladder",
   ABILITY_DISCARD_MAP_DUMP:
-    "Place all your remaing in-hand cards in the Star Map",
+    "Place all your remaing hand cards into the Star Map",
   ABILITY_DISCARD_POSTPONE_QUEST:
-    "Place your current quest at the bottom of your quest pile",
+    "Place your Current Quest at the bottom of your Quest Pile",
 
   ABILITY_STACK_WORMHOLE_NAME: "One Small Step",
   ABILITY_STACK_EVEN_PLANET_NAME: "Warp Drive",
